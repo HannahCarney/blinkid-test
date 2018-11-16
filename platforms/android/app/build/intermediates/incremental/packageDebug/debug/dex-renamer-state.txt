@@ -1,0 +1,4 @@
+#Fri Nov 16 21:48:00 GMT 2018
+base.0=/Users/hannahcarney/Desktop/Programming/blinkid-phonegap/BlinkIDDemo/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/hannahcarney/Desktop/Programming/blinkid-phonegap/BlinkIDDemo/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

@@ -1,0 +1,343 @@
+{
+  "GT-S5570I::GT-S5570I": {
+    "description": "Galaxy Mini",
+    "displayOrientationNotWorking": "*"
+  },
+  "GT-S5830::GT-S5830": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5830B::GT-S5830B": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5830C::GT-S5830C": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5830D::GT-S5830D": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5830F::GT-S5830F": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5830G::GT-S5830G": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5830L::GT-S5830L": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5830M::GT-S5830M": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace",
+    "displayOrientationNotWorking": "*"
+  },
+  "GT-S5830T::GT-S5830T": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5830i::GT-S5830i": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace",
+    "displayOrientationNotWorking": "*"
+  },
+  "GT-S5831i::GT-S5831i": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5838::GT-S5838": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S5839i::GT-S5839i": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "GT-S6358::GT-S6358": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "SCH-I619::SCH-I619": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "SCL23::SCL23": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "SHW-M240S::SHW-M240S": {
+    "cameraInitDelayMs": 1500,
+    "description": "Samsung Galaxy Ace"
+  },
+  "HWFRD::FRD-L09": {
+    "description": "Huawei Honor8",
+    "meteringNotWorking": "*"
+  },
+  "HWFRD::FRD-AL00": {
+    "description": "Huawei Honor8",
+    "meteringNotWorking": "*"
+  },
+  "HWFRD::FRD-AL10": {
+    "description": "Huawei Honor8",
+    "meteringNotWorking": "*"
+  },
+  "HWFRD::FRD-DL00": {
+    "description": "Huawei Honor8",
+    "meteringNotWorking": "*"
+  },
+  "HWFRD::FRD-L04": {
+    "description": "Huawei Honor8",
+    "meteringNotWorking": "*"
+  },
+  "HWFRD::FRD-L14": {
+    "description": "Huawei Honor8",
+    "meteringNotWorking": "*"
+  },
+  "HWFRD::FRD-L19": {
+    "description": "Huawei Honor8",
+    "meteringNotWorking": "*"
+  },
+  "HWFRD::FRD-TL00": {
+    "description": "Huawei Honor8",
+    "meteringNotWorking": "*"
+  },
+  "ST27i::ST27i": {
+    "description": "Sony Xperia Go",
+    "backFacingPreviewSize": [
+      480,
+      320
+    ]
+  },
+  "bravo::HTC Desire": {
+    "description": "HTC Desire",
+    "backFacingPreviewSize": [
+      640,
+      480
+    ]
+  },
+  "bravo::X06HT": {
+    "description": "HTC Desire",
+    "backFacingPreviewSize": [
+      640,
+      480
+    ]
+  },
+  "glass-1::Glass 1": {
+    "description": "Google glass",
+    "displayOrientationNotWorking": "*"
+  },
+  "golfc::HTC Desire C": {
+    "description": "HTC Desire C",
+    "backFacingPreviewSize": [
+      640,
+      480
+    ]
+  },
+  "golfu::HTC Desire C": {
+    "description": "HTC Desire C",
+    "backFacingPreviewSize": [
+      640,
+      480
+    ]
+  },
+  "htc_m8::HTC M8w": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8::HTC One_M8": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8::HTC_0P6B": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8::HTC_0P6B6": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8::HTC_M8x": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8dug::HTC M8e": {
+    "description": "HTC One (M8) (4G LTE)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8dug::HTC One_M8 dual sim": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8dwg::HTC M8d": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8whl::831C": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8wl::HTC One_M8": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "htc_m8wl::HTC6525LVW": {
+    "description": "HTC One (M8)",
+    "focusUntrusty": "[5.0.0,*>"
+  },
+  "k3g::SM-G900H": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klte::SM-G900F": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klte::SM-G900FQ": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klte::SM-G900I": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klte::SM-G900M": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klte::SM-G900MD": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klteMetroPCS::SM-G900T1": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klteacg::SM-G900R7": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klteatt::SAMSUNG-SM-G900A": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "kltecan::SM-G900W8": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "kltektt::SM-G900K": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "kltelgt::SM-G900L": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "kltelra::SM-G900R6": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klteskt::SM-G900S": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "kltespr::SM-G900P": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "kltetmo::SM-G900T": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "klteusc::SM-G900R4": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "kltevzw::SM-G900V": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "kwifi::SM-G900X": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "lentisltektt::SM-G906K": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "lentisltelgt::SM-G906L": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "lentislteskt::SM-G906S": {
+    "description": "Galaxy S5",
+    "meteringNotWorking": "*"
+  },
+  "primods::HTC Desire V": {
+    "description": "HTC Desire V",
+    "backFacingPreviewSize": [
+      640,
+      480
+    ]
+  },
+  "primou::HTC One V": {
+    "description": "HTC One V",
+    "focusUntrusty": "*"
+  },
+  "roamer2::ZTE Kis Lite": {
+    "description": "ZTE Kis Lite",
+    "backFacingPictureSize": [
+      1600,
+      1200
+    ]
+  },
+  "saga::HTC Desire S": {
+    "description": "HTC Desire S",
+    "backFacingPreviewSize": [
+      640,
+      480
+    ]
+  },
+  "OnePlus3::ONEPLUS A3003": {
+    "description": "One Plus 3",
+    "forceUseLegacyCamera": "*"
+  },
+  "OnePlus3T::ONEPLUS A3003": {
+    "description": "One Plus 3T",
+    "forceUseLegacyCamera": "*"
+  },
+  "shamu::Nexus 6": {
+    "description": "Nexus 6",
+    "minZoomLevel": 0.01
+  },
+  "v72c::V72C": {
+    "description": "ZTE v72C tablet (a.k.a. Sprint Optik 2)",
+    "naturalOrientationIsLandscapeLeft": "*"
+  },
+  "chagalllte::SM-T805": {
+    "description": "Samsung Galaxy Tab S",
+    "displayOrientationNotWorking": "*"
+  },
+  "manta::Nexus 10": {
+    "description": "Nexus 10",
+    "backFacingPreviewSize": [
+      1280,
+      720
+    ]
+  },
+  "zeroflte::SM-G920F": {
+    "description": "Samsung Galaxy S6",
+    "phaseAutoFocusSupported": "*"
+  },
+  "herolte::SM-G930F": {
+    "description": "Samsung Galaxy S7",
+    "phaseAutoFocusSupported": "*"
+  },
+  "hero2lte::SM-G935F": {
+    "description": "Samsung Galaxy S7 Edge",
+    "phaseAutoFocusSupported": "*"
+  }
+}

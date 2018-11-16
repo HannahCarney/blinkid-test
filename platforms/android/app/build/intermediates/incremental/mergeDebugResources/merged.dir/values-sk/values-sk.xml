@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Prejsť hore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobraziť všetko"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYPNUTÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAPNUTÉ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhľadať…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hľadať"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odoslať dopyt"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhľadávanie"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Zdieľať pomocou"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Zdieľať s aplikáciou <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zbaliť"</string>
+    <string name="mb_align">Umiestnite telefón nad poukážku.</string>
+    <string name="mb_autofocus_fail">Fotoaparát nedokáže zaostriť. Skúste načítať poukážku pod iným svetlom.</string>
+    <string name="mb_camera_at_angle">Prosím vložte skenovaný text do obdĺžnika nižšie. Ukol skenovaného textu je veľmi ostrý</string>
+    <string name="mb_camera_not_allowed">Prístup k fotoaparátu nie je povolený.</string>
+    <string name="mb_camera_not_ready">Fotoaparát nie je pripravený.</string>
+    <string name="mb_camera_permission_required">Vyžaduje sa prístup k fotoaparátu.</string>
+    <string name="mb_camera_too_high">Umiestnite prosím telefón bližšie k poukážke.</string>
+    <string name="mb_camera_too_near">Umiestnite prosím telefón ďalej od poukážky.</string>
+    <string name="mb_cancel">Zrušiť</string>
+    <string name="mb_copied">Text bol skopírovaný do schránky.</string>
+    <string name="mb_copy">Kopírovať</string>
+    <string name="mb_custom_ui_forbidden">License does not permit custom camera activity!</string>
+    <string name="mb_enable_camera">Povoliť prístup k fotoaparátu</string>
+    <string name="mb_enable_permission_help">Budete presmerovaný do nastavení, kde môžete aplikácii povoliť prístup k fotoaparátu.</string>
+    <string name="mb_error_initializing">Nepodarilo sa spustiť knižnicu. Pre viac informácií, pozrite ADB error log.</string>
+    <string name="mb_feature_unsupported_android_version">Túto funkciu podporuje iba verzia Android 2.1 a vyššia.</string>
+    <string name="mb_feature_unsupported_autofocus">Túto funkciu nepodporujú telefóny bez automatického zaostrovania.</string>
+    <string name="mb_feature_unsupported_device">Technické parametre vášho zariadenia túto funkciu nepodporujú.</string>
+    <string name="mb_full_recognition">Poukážka rozpoznaná.</string>
+    <string name="mb_help">Pomoc</string>
+    <string name="mb_home">Späť</string>
+    <string name="mb_invalid_license">Neplatný licenčý kľúč. Pre viac informácií, pozrite ADB error log.</string>
+    <string name="mb_light_off">Svetlo</string>
+    <string name="mb_light_on">Svetlo</string>
+    <string name="mb_no_recognition">Poukážka nebola rozpoznaná</string>
+    <string name="mb_ocr_line_help_message">Vložte celý dokument do bieleho obdĺžnika nižšie</string>
+    <string name="mb_partial_detected">Niektoré časti poukážky nie sú viditeľné</string>
+    <string name="mb_partial_recognition">Poukážka čiastočne rozpoznaná.</string>
+    <string name="mb_processing">Nehýbte, prosím, s telefónom, prebieha spracovanie.</string>
+    <string name="mb_result_list">Zoznam výsledkov skenovania.</string>
+    <string name="mb_skip">Preskočiť</string>
+    <string name="mb_use">Použiť</string>
+    <string name="mb_warning_title">Upozornenie</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Vyhľadávanie"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

@@ -1,0 +1,21 @@
+{
+    "name": "com.hannahcarney.scanner",
+    "version": "1.0.0",
+    "displayName": "BlinkIDDemo",
+    "cordova": {
+        "platforms": [
+            "android"
+        ],
+        "plugins": {
+            "blinkid-cordova": {
+                "CAMERA_USAGE_DESCRIPTION": "Camera permission is required for automated scanning"
+            },
+            "cordova-plugin-whitelist": {}
+        }
+    },
+    "dependencies": {
+        "cordova-android": "~7.0.0",
+        "blinkid-cordova": "../BlinkID",
+        "cordova-plugin-whitelist": "1"
+    }
+}

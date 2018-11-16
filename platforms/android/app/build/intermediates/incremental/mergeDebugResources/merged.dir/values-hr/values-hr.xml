@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string name="mb_action_torch">Svjetlo</string>
+    <string name="mb_activity_title_step_back_side">Stražnja strana</string>
+    <string name="mb_activity_title_step_front_side">Prednja strana</string>
+    <string name="mb_alert_title">Upozorenje</string>
+    <string name="mb_align">Postavite kameru iznad uplatnice ili barkoda</string>
+    <string name="mb_align_ocr_line">Namjestite telefon iznad OCR linije</string>
+    <string name="mb_autofocus_fail">Kamera ne može fokusirati. Skenirajte pod drugačijim svjetlom.</string>
+    <string name="mb_camera_at_angle">Namjestite OCR liniju u polje ispod. Kut OCR linije je prevelik.</string>
+    <string name="mb_camera_not_allowed">Korištenje kamere je zabranjeno sigunosnim postavkama.</string>
+    <string name="mb_camera_not_ready">Kamera nije spremna.</string>
+    <string name="mb_camera_permission_required">Potrebna je dozvola za pristup kameri.</string>
+    <string name="mb_camera_too_high">Približite telefon uplatnici</string>
+    <string name="mb_camera_too_near">Udaljite uređaj od uplatnice ili barkoda</string>
+    <string name="mb_cancel">Odustani</string>
+    <string name="mb_copied">Tekst je kopiran u sustavski međuspremnik</string>
+    <string name="mb_copy">Kopiraj</string>
+    <string name="mb_custom_ui_forbidden">Licenca ne dozvoljava izradu vlastitog sučelja iznad kamera ekrana.</string>
+    <string name="mb_data_not_match_msg" ns2:ignore="MissingTranslation">Prednja i stražnja strana se ne podudaraju.</string>
+    <string name="mb_enable_camera">Dozvoli pristup kameri</string>
+    <string name="mb_enable_permission_help">Bit ćete odvedeni na sustavske postavke gdje morate aplikaciji dozvoliti pristup kameri.</string>
+    <string name="mb_error_initializing">Greška kod inicijalizacije native komponente. Provjerite ADB error log za detalje.</string>
+    <string name="mb_feature_unsupported_android_version">Ova opcija nije dostupna za starije verzije Android uređaja</string>
+    <string name="mb_feature_unsupported_autofocus">Ova opcija nije dostupna za uređaje bez mogućnosti autofocusa</string>
+    <string name="mb_feature_unsupported_device">Tehničke karakteristike vašeg uređaja ne omogućavaju korištenje ove opcije</string>
+    <string name="mb_full_recognition">Uplatnica prepoznata</string>
+    <string name="mb_help">Upute</string>
+    <string name="mb_home">Početna</string>
+    <string name="mb_invalid_license">Pogrešan licencni ključ. Molim provjerite ADB error log za detalje.</string>
+    <string name="mb_light_off">Svjetlo</string>
+    <string name="mb_light_on">Svjetlo</string>
+    <string name="mb_no_recognition">Uplatnica nije prepoznata</string>
+    <string name="mb_ocr_line_help_message">Postavite cijelo bijelo područje u prozor iznad</string>
+    <string name="mb_ok">U redu</string>
+    <string name="mb_partial_detected">Neki dijelovi uplatnice nisu vidljivi</string>
+    <string name="mb_partial_recognition">Uplatnica djelomično prepoznata</string>
+    <string name="mb_processing">Molim, držite telefon mirno, slika se obrađuje</string>
+    <string name="mb_result_list">Popis rezultata skeniranja</string>
+    <string name="mb_scan_again">Skeniraj ponovno</string>
+    <string name="mb_skip">Preskoči</string>
+    <string name="mb_splash_msg_id_back">Stražnja strana osobne iskaznice</string>
+    <string name="mb_splash_msg_id_front">Prednja strana osobne iskaznice</string>
+    <string name="mb_tooltip_back_id">Postavite <b>STRAŽNJU STRANU</b> osobne iskaznice u okvir i pričekajte automatsko skeniranje</string>
+    <string name="mb_tooltip_front_id">Postavite <b>PREDNJU STRANU</b> osobne iskaznice u okvir i pričekajte automatsko skeniranje</string>
+    <string name="mb_tooltip_glare">Smanjite odsjaj laganim pomicanjem dokumenta.</string>
+    <string name="mb_use">Koristi</string>
+    <string name="mb_warning_title">Upozorenje</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

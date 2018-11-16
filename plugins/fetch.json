@@ -1,0 +1,20 @@
+{
+    "blinkid-cordova": {
+        "source": {
+            "type": "local",
+            "path": "/Users/hannahcarney/Desktop/Programming/blinkid-phonegap/BlinkIDDemo/node_modules/blinkid-cordova"
+        },
+        "is_top_level": true,
+        "variables": {
+            "CAMERA_USAGE_DESCRIPTION": "Camera permission is required for automated scanning"
+        }
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
